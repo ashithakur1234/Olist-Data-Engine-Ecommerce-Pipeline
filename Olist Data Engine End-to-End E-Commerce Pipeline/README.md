@@ -66,9 +66,6 @@ Based on the live telemetry and historical order trends:
 
 # Dashboard Preview
 [👉 Click Here to Interact with the Live Dashboard][dashboard]
-
-*Note: Clicking on the live link above will open the fully interactive version of this dashboard. Since no static images are used, you can interact directly with the dynamic maps, charts, and KPI cards via Tableau Public. Selecting any specific state on the interactive map will automatically filter and update the synchronized revenue trends, top product categories, and delivery metrics.*
-
 ---
 
 # How to Run
