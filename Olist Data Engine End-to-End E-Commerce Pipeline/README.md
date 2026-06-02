@@ -78,4 +78,4 @@ Execute the scripts inside `sql_queries/` within your SQL workbench for database
 
 Download the `.twbx` workbook file to inspect, edit, or interact with the visualization layer locally using Tableau Desktop or Tableau Public.
 
-[dashboard]: https://public.tableau.com/app/profile/aashi.thakur/viz/OlistBrazilianE-CommerceAnalyticsDashbarod/Dashboard1
+[dashboard]: https://public.tableau.com/app/profile/aashi.thakur/viz/OlistBrazilianE-CommerceAnalyticsDashboard/Dashboard1
